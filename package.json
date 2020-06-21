@@ -1,8 +1,8 @@
 {
-  "name": "vue-phaser3",
-  "version": "2.1.1",
-  "description": "Template for working with Phaser 3 in a Vue project",
-  "author": "Markus Appel <markospoparkos@gmail.com>",
+  "name": "vue-phaser3-shootgame",
+  "version": "0.0.1",
+  "description": "simpler shooting game with Phaser 3 in a Vue project",
+  "author": "Yun He <heyunpiupiu@gmail.com>, Jianing Li",
   "scripts": {
     "serve": "serve dist",
     "build": "vue-cli-service build --modern",
@@ -30,6 +30,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Sun0fABeach/vue-phaser3.git"
+    "url": "https://github.com/heyunpiupiu/vue-phaser3-shootgame.git"
   }
 }
